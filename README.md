@@ -30,10 +30,12 @@ Register No:2122222301067
   df.info()
   df
   ```
-![277957540-8174e1f4-d724-436b-8f33-0fa20413cddc](https://github.com/KRISHNARAJ-D/ODD2023-Datascience-Ex06/assets/119559695/c4357491-04c7-4608-a958-112237c2433d)
+![image](https://github.com/Vasanthamukilan/ODD2023-Datascience-Ex06/assets/119559694/a3303641-c88a-4d3c-af14-02bfd504ddf9)
 
-![277957560-a0687a96-21ff-44e2-a19a-a2aaf7d6753d](https://github.com/KRISHNARAJ-D/ODD2023-Datascience-Ex06/assets/119559695/056d7173-d2dc-4a85-b178-1e207091cdb2)
-![277957584-132a6dd0-f447-4907-b2b9-7f342e3a8ca4](https://github.com/KRISHNARAJ-D/ODD2023-Datascience-Ex06/assets/119559695/28b2c495-8b37-4a7e-a9ef-c14ada3361c1)
+![image](https://github.com/Vasanthamukilan/ODD2023-Datascience-Ex06/assets/119559694/977c2604-94eb-4f85-9ae8-871dccdcd504)
+
+![image](https://github.com/Vasanthamukilan/ODD2023-Datascience-Ex06/assets/119559694/a835d5a0-f8e9-439d-93ad-a26020a11d09)
+
 
 - Before Transformation:
   ```Python
@@ -53,11 +55,14 @@ Register No:2122222301067
   plt.title("Moderate Negative Skew")
   plt.show()
   ```
-  ![277957889-eac11f2a-51cd-4eb0-a348-757a01b48102](https://github.com/KRISHNARAJ-D/ODD2023-Datascience-Ex06/assets/119559695/3a8df91c-cd00-43f6-a7ef-a767ae36a256)
+ ![image](https://github.com/Vasanthamukilan/ODD2023-Datascience-Ex06/assets/119559694/0544edf9-26a4-4b07-8819-f73677c3cb6d)
 
-![277957920-63728e2c-5c24-49f5-9865-014c1335304d](https://github.com/KRISHNARAJ-D/ODD2023-Datascience-Ex06/assets/119559695/f362af6c-caf7-420d-8fd7-76e2293b2871)
-![277957940-53cdbe49-62be-4158-96f8-cf7d3f1f94ea](https://github.com/KRISHNARAJ-D/ODD2023-Datascience-Ex06/assets/119559695/ca5e2c05-e172-42a0-b896-f95cf47186d8)
-![277957956-1f2338b7-8976-4a38-a2fe-a76f99b4ff0b](https://github.com/KRISHNARAJ-D/ODD2023-Datascience-Ex06/assets/119559695/d0263769-611d-4e32-b02e-678f2b1888d6)
+![image](https://github.com/Vasanthamukilan/ODD2023-Datascience-Ex06/assets/119559694/8e09d6e0-d6c4-44e5-b80e-52ed11a05998)
+
+![image](https://github.com/Vasanthamukilan/ODD2023-Datascience-Ex06/assets/119559694/31e2279d-2003-456c-97f3-d8f222146a0c)
+
+![image](https://github.com/Vasanthamukilan/ODD2023-Datascience-Ex06/assets/119559694/96e5e493-6009-4d85-8169-e71e2a7505b6)
+
 
 
 - Log Transformation:
@@ -72,9 +77,10 @@ Register No:2122222301067
   plt.title("Moderate Positive Skew")
   plt.show()
   ```
-  ![277958134-567a14c2-975d-4022-ae7e-48e9643d67b8](https://github.com/KRISHNARAJ-D/ODD2023-Datascience-Ex06/assets/119559695/410478dd-f7f7-4ce8-be0e-e1639b4a7822)
+![image](https://github.com/Vasanthamukilan/ODD2023-Datascience-Ex06/assets/119559694/582261b8-d88c-4a72-b566-84c1202f1d5a)
+  
+![image](https://github.com/Vasanthamukilan/ODD2023-Datascience-Ex06/assets/119559694/3a0c6599-8931-4e15-b44e-5394e5e93582)
 
-![277958165-91cb3661-adb6-4726-901a-9453db9ec65c](https://github.com/KRISHNARAJ-D/ODD2023-Datascience-Ex06/assets/119559695/2d6c85c4-768f-402d-828a-3ad3bfed92ca)
 
 
 - Reciprocal Transformation:
@@ -84,7 +90,8 @@ Register No:2122222301067
   plt.title("Highly Positive Skew")
   plt.show()
   ```
-![277958317-5e40b4fc-cd70-435b-ab0f-55a6df660225](https://github.com/KRISHNARAJ-D/ODD2023-Datascience-Ex06/assets/119559695/6408c451-246d-45b7-a937-1552db90bbc0)
+![image](https://github.com/Vasanthamukilan/ODD2023-Datascience-Ex06/assets/119559694/41739d51-5e74-4727-87a1-737da52998c9)
+
 
 
 - SquareRoot Transformation:
@@ -95,7 +102,8 @@ Register No:2122222301067
   plt.show()
   ```
 
-![277958383-9adbe3af-b0b8-41e7-880f-a29fb963951f](https://github.com/KRISHNARAJ-D/ODD2023-Datascience-Ex06/assets/119559695/1de7c66e-2a16-4d53-8e80-fa8c6b18c8ec)
+![image](https://github.com/Vasanthamukilan/ODD2023-Datascience-Ex06/assets/119559694/3043ecf4-cc23-4a16-86cd-545e57fe4b9d)
+
 
 - Power Transformation:
   ```Python
@@ -110,10 +118,10 @@ Register No:2122222301067
   plt.title("Moderate Negative Skew")
   plt.show()
   ```
- ![277958457-1fc1a6f8-9403-496d-bdb4-6ec5e24d250e](https://github.com/KRISHNARAJ-D/ODD2023-Datascience-Ex06/assets/119559695/046ab531-9f77-4aa4-ae74-f7b3b97d44e8)
+![image](https://github.com/Vasanthamukilan/ODD2023-Datascience-Ex06/assets/119559694/6f508b24-5063-499d-83fb-787722e1905b)
 
 
-![277958480-fdde097f-af98-4bfa-bcc7-1f33b5672a6e](https://github.com/KRISHNARAJ-D/ODD2023-Datascience-Ex06/assets/119559695/6a646196-555a-498a-b31b-b4017a3ca7be)
+![image](https://github.com/Vasanthamukilan/ODD2023-Datascience-Ex06/assets/119559694/8f378cbf-bf0e-4324-ac23-b17f6506133f)
 
   
 - Quantile Transformation:
@@ -124,7 +132,8 @@ Register No:2122222301067
   plt.title("Moderate  Negative Skew")
   plt.show()
   ```
-![277958544-00458c10-dacb-4fed-9f0f-34a411f7977d](https://github.com/KRISHNARAJ-D/ODD2023-Datascience-Ex06/assets/119559695/3321ee2f-7fc2-4812-8aea-74659a02752a)
+![image](https://github.com/Vasanthamukilan/ODD2023-Datascience-Ex06/assets/119559694/f96ca37d-3a43-4b47-8d64-7ef88d82bbc8)
+
 
 ### Result:  
 Thus feature transformation is done for the given dataset.
